@@ -1,0 +1,8 @@
+Javascript hastt dynamic typing: data types are automatically assigned to variables
+undefined vs. null
+variables have no numbers and symbols except $ and _ at the beginning
+type coercion
+operator precedence
+associativity: left-to-right or right-to-left
+Ternary Operator
+function statement vs expression
